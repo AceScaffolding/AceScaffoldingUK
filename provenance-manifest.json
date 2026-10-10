@@ -1,0 +1,164 @@
+{
+  "release": "2026.09.18-r3",
+  "phase": "Phase 3",
+  "domain": "https://acescaffolding.uk",
+  "generated": "2026-09-18",
+  "scope": "Complete Phase 3 additive website release",
+  "files": [
+    {
+      "path": ".github/workflows/validate.yml",
+      "sha256": "f2815e160d573e9c93a717caa292b45eba41b760b6f25c8878975fae099ebb55",
+      "bytes": 300
+    },
+    {
+      "path": ".well-known/security.txt",
+      "sha256": "4c7308c0b4478bb723fbff591474205c5e82ed4fbbc6685cf77a922909c6d2ba",
+      "bytes": 156
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "a0a75f6404b6051f56e2ff55ff57a6c965a815baa7ff06c6ab41e3229904bb1d",
+      "bytes": 904
+    },
+    {
+      "path": "CNAME",
+      "sha256": "3e031600747c3c9009a94850366aa90b682c813ef1eff461df645a880fb5e42e",
+      "bytes": 18
+    },
+    {
+      "path": "README-FIRST.txt",
+      "sha256": "9baa3e51a09edaa03fad47686e5c8e52d79457e5d08c660c152cf552997dcfab",
+      "bytes": 1160
+    },
+    {
+      "path": "README-PHASE-3-PUSH.txt",
+      "sha256": "a14abf3ba45d1830225afc1b2917fb087047d73ae50f3e10fff993bf1e496aff",
+      "bytes": 880
+    },
+    {
+      "path": "VERSION.txt",
+      "sha256": "92ef0bfb5cfa8aae15740da9e49cbae21e9a0de49be7f884e8e2e85ef47804a0",
+      "bytes": 14
+    },
+    {
+      "path": "acceptance-register-template.csv",
+      "sha256": "3abdf52eaa3d6de02abd023161138bf6ff50cd3863a3c42bca3f2351e76133a3",
+      "bytes": 368
+    },
+    {
+      "path": "acceptance.html",
+      "sha256": "1e291857b73e6d971a832f8cd6b42b9f7863c8d530402360f54de636d60b011e",
+      "bytes": 14968
+    },
+    {
+      "path": "android-chrome-192x192.png",
+      "sha256": "1c1a899b66e68d366e66778f788d6bc406de5e5112e55c83d035217742e5e625",
+      "bytes": 6120
+    },
+    {
+      "path": "android-chrome-512x512.png",
+      "sha256": "d19be5f0a182d89331f234bdc18f167b14008290ce4882bab38feccb14841ce0",
+      "bytes": 19994
+    },
+    {
+      "path": "apple-touch-icon.png",
+      "sha256": "591bcdb09475c833613be38bb40184b41bc74819552c8aea6bf2ca42ef518cca",
+      "bytes": 5725
+    },
+    {
+      "path": "assets/favicon.svg",
+      "sha256": "1b15cfcf84e04604729e60dd11c489cf9063b71396d85b9848caa3680d65826e",
+      "bytes": 346
+    },
+    {
+      "path": "assets/social-card.svg",
+      "sha256": "e810f60773a90f37811ef48c70786ae7bac1817596a4cd96080f928ce2eb5844",
+      "bytes": 1066
+    },
+    {
+      "path": "communication-terms.html",
+      "sha256": "54701758bc1520f2eec5d8640d0380078469f2b538312bdf3697868d757eea9d",
+      "bytes": 7471
+    },
+    {
+      "path": "confidentiality-policy.html",
+      "sha256": "384692520bd6a8bf4699f621cda8edeb676dff7faad764f34d33c94ba4601e20",
+      "bytes": 8026
+    },
+    {
+      "path": "disclaimer.html",
+      "sha256": "969fe5816e3509b3e19bcc4074f56afdacd7466385f4bf21c1337cf6626404cb",
+      "bytes": 8040
+    },
+    {
+      "path": "document-register.html",
+      "sha256": "b75cdaad1c64104c419995a10a8a390ce6ecf0c5c17738152880f9e11ea6450b",
+      "bytes": 5156
+    },
+    {
+      "path": "favicon-16x16.png",
+      "sha256": "afc0e5592f58997ffb6c5d3105e71db7a3ef868b362f4f158836937d0f760bae",
+      "bytes": 462
+    },
+    {
+      "path": "favicon-32x32.png",
+      "sha256": "63c1484f69b28923b712086f0d62f603d9970d085d8f8a728dc1eeef0b954e11",
+      "bytes": 952
+    },
+    {
+      "path": "favicon.ico",
+      "sha256": "9df9696c09876fd7f96afc9dfe05e4137b2e75d6d84a8754203bbbcd9ed33172",
+      "bytes": 5430
+    },
+    {
+      "path": "hub.html",
+      "sha256": "cb328ed95d9a94cdeb61542976e4cdc431326991233c69e2ba5c7d996cbe204d",
+      "bytes": 20429
+    },
+    {
+      "path": "index.html",
+      "sha256": "cd66752e1fe2a544f6b850c53de587fd77b26f11b129640d6cbb29d770fa1547",
+      "bytes": 6076
+    },
+    {
+      "path": "privacy-notice.html",
+      "sha256": "fca99911049093489497db1b6a90d58a7371b69d538f1c291bbfae909c4324b2",
+      "bytes": 7245
+    },
+    {
+      "path": "proton-email-template.txt",
+      "sha256": "f8d98c8515305a4c1609c7e750e744e356839d593c55f2a5cb30792d924c76c4",
+      "bytes": 889
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "c281f530fcbb60d37659a13970890bb9061a34c009e677f87408b0d8ff367fa7",
+      "bytes": 70
+    },
+    {
+      "path": "site.webmanifest",
+      "sha256": "266be870299f701bae3db17a0266528444b73a9f703ca0fabffeb351b5f11596",
+      "bytes": 488
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "11b8aa42b178103b759d77c704306823e1c9c23d28181f326a735988db5f97be",
+      "bytes": 974
+    },
+    {
+      "path": "statement.html",
+      "sha256": "5a3934d015b7b7742eeb1ba852910433e16b38ced0130df814342226f1dd856a",
+      "bytes": 8064
+    },
+    {
+      "path": "style.css",
+      "sha256": "455eb5644e1c8017c277ef1bb419f584ae348cd6d8c101762e3924977226ba3c",
+      "bytes": 18209
+    },
+    {
+      "path": "validate_site.py",
+      "sha256": "af208f1063e98cb5e3b833864c194bf167f7ea6524ba895b793ef21924e12f15",
+      "bytes": 2007
+    }
+  ]
+}

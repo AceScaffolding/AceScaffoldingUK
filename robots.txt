@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://acescaffolding.uk/sitemap.xml
